@@ -1,7 +1,3 @@
-Here's a template for a README file for a project that involves containerizing a sample Node.js application:
-
----
-
 # Containerizing a Sample Node.js Application
 
 ## Project Overview
