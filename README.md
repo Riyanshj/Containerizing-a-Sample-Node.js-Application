@@ -52,12 +52,7 @@ A simple Node.js application that listens on port 3000 and returns a simple note
    cd Containerizing-A-Sample-Node.js-Application
    ```
 
-2. **Navigate to the application directory**:
-   ```bash
-   cd app
-   ```
-
-3. **Install dependencies**:
+2. **Install dependencies**:
    ```bash
    npm install
    ```
